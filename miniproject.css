@@ -63,16 +63,15 @@ background-color:black;
 
 form
 {
-	position: absolute;
-  top: 50%;
+	position: relative;
+  top: 20%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 50%;
 	text-align:center;
 	border:solid 1px;
 	border-color:white;
 	height:250px;
-	width:400px;
+	width:100%;
 }
 b
 {
